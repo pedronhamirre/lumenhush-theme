@@ -11,7 +11,7 @@ A calm dark theme for [Zed](https://zed.dev) with warm accents and low-contrast 
 
 ## Installation
 
-Once published, install **Lumenhush Theme** from Zed's Extensions panel and select **Lumenhush** in the theme selector.
+Install **Lumenhush Theme** from Zed's Extensions panel and select **Lumenhush** in the theme selector.
 
 ## Author
 
